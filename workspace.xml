@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35a78996-0dc8-4393-a070-ffda183e4cd9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1de62HfcJQVGJmSje9bSAgIfo2q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Discord Tutorial" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Discord_Voice" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Voice Tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Discord_Voice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35a78996-0dc8-4393-a070-ffda183e4cd9" name="Default Changelist" comment="" />
+      <created>1592773002715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592773002715</updated>
+      <workItem from="1592773003896" duration="4017000" />
+      <workItem from="1592777971060" duration="6000" />
+      <workItem from="1592778033166" duration="1199000" />
+      <workItem from="1592848179402" duration="638000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="991" y="148" key="#Discord_Voice" timestamp="1592773576712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="991" y="148" key="#Discord_Voice/0.0.1920.1040@0.0.1920.1040" timestamp="1592773576712" />
+    <state x="736" y="208" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592773566405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="208" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592773566405" />
+    <state x="933" y="307" key="FileChooserDialogImpl" timestamp="1592848812000">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="933" y="307" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592848812000" />
+    <state width="1156" height="279" key="GridCell.Tab.0.bottom" timestamp="1592777962650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1156" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592777962650" />
+    <state width="1156" height="279" key="GridCell.Tab.0.center" timestamp="1592777962650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1156" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592777962650" />
+    <state width="1156" height="279" key="GridCell.Tab.0.left" timestamp="1592777962650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1156" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592777962650" />
+    <state width="1156" height="279" key="GridCell.Tab.0.right" timestamp="1592777962650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1156" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592777962650" />
+    <state x="945" y="262" width="672" height="678" key="search.everywhere.popup" timestamp="1592774413311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="945" y="262" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592774413311" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Voice_Tutorial$Discord_Voice.coverage" NAME="Discord_Voice Coverage Results" MODIFIED="1592776859108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
